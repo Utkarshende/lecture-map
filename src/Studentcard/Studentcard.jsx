@@ -2,7 +2,7 @@ import React from 'react'
 
 import toast, { Toaster } from 'react-hot-toast';
 
-import './StudentCard.css'
+import './Studentcard.css'
 
 function StudentCard({photo, name, email, rollnumber, result } ) {
 
